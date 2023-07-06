@@ -7,3 +7,4 @@
 - One can edit the `conf.py` inside the source directory to change the theme, theme options, logo etc etc
 - `sphinx-build -b html sourcedir builddir`
 - `make html` `make epub` etc can be done
+- we have to pip install the extensions and then add them to extensions in `conf.py`. `pip install sphinx-tabs`
