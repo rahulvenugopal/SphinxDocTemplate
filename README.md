@@ -14,7 +14,7 @@
 - [Tex live](https://www.tug.org/texlive/windows.html#w64) is taking hell lot of time to install
 - [rst2pdf](https://gist.github.com/alfredodeza/7fb5c667addb1c6963b9) is decent
 - Add `extensions = ['rst2pdf.pdfbuilder']` and pdf_documents = [('index', u'rst2pdf', u'Sample rst2pdf doc', u'Your Name'),] to config.py
-  # index - master document
-  # rst2pdf - name of the generated pdf
-  # Sample rst2pdf doc - title of the pdf
-  # Your Name - author name in the pdf
+index - master document
+rst2pdf - name of the generated pdf
+Sample rst2pdf doc - title of the pdf
+Your Name - author name in the pdf
