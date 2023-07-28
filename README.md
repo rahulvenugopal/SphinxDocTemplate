@@ -8,3 +8,6 @@
 - `sphinx-build -b html sourcedir builddir`
 - `make html` `make epub` etc can be done
 - we have to pip install the extensions and then add them to extensions in `conf.py`. `pip install sphinx-tabs`
+- `..  youtube:: dQw4w9WgXcQ` for youtube snippets
+- `make latexpdf` can be used to make a PDF out of Sphinx
+- I ran into ` LaTeX Error: File `cmap.sty' not found.` error. The cmap package is used to ensure proper copy-and-paste and search functionalities for PDF files generated from LaTeX documents. It helps in correctly mapping Unicode characters to their appropriate positions in the generated PDF
