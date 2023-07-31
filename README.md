@@ -18,3 +18,5 @@ index - master document
 rst2pdf - name of the generated pdf
 Sample rst2pdf doc - title of the pdf
 Your Name - author name in the pdf
+- None of the above methods were generating a neat PDF. Thge code blocks and all were chaotic in the rendered version
+- Reinstalling `Tex Live`
