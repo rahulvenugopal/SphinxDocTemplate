@@ -19,4 +19,4 @@ rst2pdf - name of the generated pdf
 Sample rst2pdf doc - title of the pdf
 Your Name - author name in the pdf
 - None of the above methods were generating a neat PDF. The code blocks and all were chaotic in the rendered version
-- Reinstalling `Tex Live`
+- Reinstalling `Tex Live`. This went through and rendering was good. BUT, the unicodes for greek letters were not rendered and flagged as warning during build and I had to press `return` key to continue the build
